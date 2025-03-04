@@ -1,0 +1,21 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5a5b6d;
+}
+
+section {
+    width: 90%;
+    max-width: 800px;
+    text-align: center;
+}
+
+section picture img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
